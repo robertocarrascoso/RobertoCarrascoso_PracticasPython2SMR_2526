@@ -1,26 +1,63 @@
 # Programación en Python 2º CFGM SMR
 
-Este repositorio contiene material relacionado con la asignatura **Programación en Python** del **2º CFGM de Sistemas Microinformáticos y Redes**.  
-Aquí encontrarás tanto la teoría como las actividades desarrolladas durante el curso.  
+---
 
-## 📌 Objetivo del curso
+Repositorio de recursos utilizados en la asignatura **Programación en Python** de **2º CFGM de Sistemas Microinformáticos y Redes**.
 
-Aprender los fundamentos de la programación en Python y aplicarlos en la resolución de problemas prácticos.
-
-## 📂 Estructura del repositorio
-
-El contenido está organizado en las siguientes carpetas:  
-
-- **📘 Teoría y apuntes**: Contiene todos los apuntes y materiales teóricos proporcionados a lo largo del curso.  
-- **📝 Actividades realizadas**: Incluye todas las actividades y entregas realizadas durante el curso.  
-- **📕 Actividades de repaso**: Incluye ejercicios básicos para repasar las bases.  
-
-## 🗒️ Lista de prácticas
-
-En esta lista se irán haciendo referencia a las prácticas.
-
-- Práctica inicial (práctica-01) **Ruta:** [/Actividades realizadas/practica-01](./Actividades%20realizadas/practica-01)
+Aquí encontrarás tanto la teoría como las actividades desarrolladas durante el curso.
 
 ---
 
-**Autor:** Roberto Carrascoso Jordán
+## 🎯 Objetivo del curso
+
+Aprender los fundamentos de la programación en Python y aplicarlos en la resolución de problemas prácticos.
+
+---
+
+## 📂 Estructura del repositorio
+
+
+El contenido está organizado en las siguientes carpetas:
+
+| 📁 Carpeta | 📋 Descripción |
+|-----------|---------------|
+| **📘 Teoría y apuntes** | Materiales teóricos proporcionados durante el curso |
+| **📝 Actividades realizadas** | Todas las actividades y entregas completadas |
+| **📕 Actividades de repaso** | Ejercicios básicos para repasar fundamentos |
+
+
+---
+
+## 🗒️ Lista de prácticas
+
+| 🔢 Práctica | 📖 Descripción | 🔗 Enlace | ⚡ Estado |
+|------------|---------------|----------|-----------|
+| **Práctica 01** | Práctica inicial | [Ver práctica](./Actividades%20realizadas/practica-01) | ✅ Completada |
+
+> **💡 Nota:** Esta lista se irá actualizando con nuevas prácticas a lo largo del curso.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+| Tecnología | Uso |
+|-----------|-----|
+| 🐍 Python | Lenguaje principal |
+| 🌿 Git | Control de versiones |
+| 🐙 GitHub | Alojamiento del repositorio |
+| 💻 VS Code | Editor de código |
+
+---
+
+<div align="center">**👨‍💻 Autor:** Roberto Carrascoso Jordán
+
+</div>
+
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-En%20desarrollo-yellow?style=for-the-badge)
+
+</div>
