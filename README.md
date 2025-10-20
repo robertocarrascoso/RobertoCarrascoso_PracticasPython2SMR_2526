@@ -19,6 +19,8 @@ El contenido está organizado en las siguientes carpetas:
 
 En esta lista se irán haciendo referencia a las prácticas.
 
+- **Práctica inicial (práctica-01)** Ruta: /Actividades realizadas/practica-01
+
 ---
 
 **Autor:** Roberto Carrascoso Jordán
