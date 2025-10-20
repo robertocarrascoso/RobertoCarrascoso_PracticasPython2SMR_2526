@@ -25,15 +25,4 @@ El contenido está organizado en las siguientes carpetas:
 
 ---
 
-<div align="center">**👨‍💻 Autor:** Roberto Carrascoso Jordán
-
-</div>
-
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-En%20desarrollo-yellow?style=for-the-badge)
-
-</div>
+**👨‍💻 Autor:** Roberto Carrascoso Jordán
