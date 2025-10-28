@@ -1,0 +1,7 @@
+Esto hace practica-fb.py:
+
+1. El programa pide por consola nombres y contraseñas y se guardan en una lista.
+2. Creamos una lista fija de contraseñas comunes que se consideran débiles.
+3. Cuando el usuario elige “hacer un ataque”, el script coge un usuario aleatorio y compara su contraseña con la lista de contraseñas comunes.
+4. Si coincide, el usuario se marca como vulnerado y se muestra un mensaje (si/no se considera resistente).
+5. Al final imprime dos listas: usuarios vulnerados y usuarios que aguantaron.

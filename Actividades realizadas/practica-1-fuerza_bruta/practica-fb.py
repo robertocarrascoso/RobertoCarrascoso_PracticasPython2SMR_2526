@@ -20,20 +20,20 @@ while True:
         break
 
     usuario = random.choice(usuarios)
-    nombre_u = usuario[0]
-    contraseña_u = usuario[1]
+    nombre_while = usuario[0]
+    contraseña_while = usuario[1]
     vulnerable = False
 
     for contraseña in contras_comunes:
-        if contraseña_u == contraseña:
-            print("El usuario", nombre_u , "fue vulnerado. Contraseña débil.")
+        if contraseña_while == contraseña:
+            print("El usuario", nombre_while , "fue vulnerado. Contraseña débil.")
             vulnerable = True
             break
     if vulnerable:
-        vulnerados.append(nombre_u)
+        vulnerados.append(nombre_while)
     else:
-        print("El usuario", nombre_u , "resistió el ataque.")
-        resistentes.append(nombre_u)
+        print("El usuario", nombre_while , "resistió el ataque.")
+        resistentes.append(nombre_while)
 
 print("Usuarios vulnerados:", vulnerados)
 print("Usuarios NO vulnerados:", resistentes)

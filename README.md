@@ -23,6 +23,7 @@ El contenido está organizado en las siguientes carpetas:
 | 🔢 Práctica | 📖 Descripción | 🔗 Enlace | ⚡ Estado |
 |------------|---------------|----------|-----------|
 | **Práctica 01** | Práctica inicial | [Ver práctica](./Actividades%20realizadas/practica-01) | ✅ Completada |
+| **Práctica 02** | Práctica Fuerza Bruta | [Ver práctica](./Actividades%20realizadas/practica-1-fuerza_bruta) | ✅ Completada |
 
 > **💡 Nota:** Esta lista se irá actualizando con nuevas prácticas a lo largo del curso.
 
