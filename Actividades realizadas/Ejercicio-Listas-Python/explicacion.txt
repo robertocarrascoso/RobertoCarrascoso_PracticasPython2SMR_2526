@@ -1,0 +1,18 @@
+Explicación del "ejercicio-listas.py"
+- Programa para ver las notas de 3 asignaturas de diferentes estudiantes.
+
+
+El programa empieza con una lista que ya tiene 2 estudiantes (Cris y Raul) con sus 3 notas cada uno:
+- Nota de Python
+- Nota de SER
+- Nota de SOR
+
+Después, se pregunta al usuario si quiere añadir más estudiantes.
+Si dice "si", le pide el nombre y las 3 notas del nuevo estudiante y lo mete en la lista. 
+Se podrá añadir estudiantes hasta que escribas "no" digas "no".
+
+Cuando se termina de añadir gente, el programa hace un bucle que recorre toda la lista de estudiantes y para cada uno:
+- Saca las 3 notas
+- Calcula los promedios y se muestran
+
+Al final saca un print del numero de estudiantes registrados en total.
