@@ -20,11 +20,11 @@ El contenido está organizado en las siguientes carpetas:
 
 ## 🗒️ Lista de prácticas
 
-| 🔢 Práctica | 📖 Descripción | 🔗 Enlace | ⚡ Estado |
+| 🔢 Nº | 📖 Descripción | 🔗 Enlace | ⚡ Estado |
 |------------|---------------|----------|-----------|
-| **Práctica 01** | Práctica inicial | [Ver práctica](./Actividades%20realizadas/practica-01) | ✅ Completada |
-| **Práctica 02** | Práctica Fuerza Bruta | [Ver práctica](./Actividades%20realizadas/practica-1-fuerza_bruta) | ✅ Completada |
-| **Práctica 03** | Práctica Listas Python | [Ver práctica](./Actividades%20realizadas/Ejercicio-Listas-Python) | ✅ Completada |
+| **P. 01** | Práctica inicial | [Ver práctica](./Actividades%20realizadas/practica-01) | ✅ Completada |
+| **P. 02** | Práctica Fuerza Bruta | [Ver práctica](./Actividades%20realizadas/practica-1-fuerza_bruta) | ✅ Completada |
+| **P. 03** | Práctica Listas Python | [Ver práctica](./Actividades%20realizadas/Ejercicio-Listas-Python) | ✅ Completada |
 
 
 > **💡 Nota:** Esta lista se irá actualizando con nuevas prácticas a lo largo del curso.
