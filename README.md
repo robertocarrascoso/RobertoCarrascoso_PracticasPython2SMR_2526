@@ -20,7 +20,7 @@ El contenido está organizado en las siguientes carpetas:
 
 ## 🗒️ Lista de prácticas
 
-| Nº | 📖 Descripción | 🔗 Enlace | ⚡ Estado |
+| Nº | Descripción | Enlace | Estado |
 |------------|---------------|----------|-----------|
 | **Nº1** | Práctica inicial | [Ver práctica](./Actividades%20realizadas/practica-01) | ✅ Completada |
 | **Nº2** | Práctica Fuerza Bruta | [Ver práctica](./Actividades%20realizadas/practica-1-fuerza_bruta) | ✅ Completada |
